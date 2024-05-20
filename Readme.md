@@ -1,0 +1,1 @@
+O intuito desse projeto é praticar os conhecimentos adquiridos sobre CRUD, banco de dados relacionais (MySQL) e a utilização do Framework Swing em Java
